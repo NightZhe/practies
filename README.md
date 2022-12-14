@@ -1,5 +1,3 @@
-# Vue_Todolist
-
 # 我用java 製作一個購物車的專案
 ## 功能
 ### 1.登入驗證(連database-mysql)
