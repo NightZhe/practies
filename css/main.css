@@ -1,0 +1,21 @@
+h2 {
+    text-align: center;
+}
+
+#logoimg {
+    border-radius: 10px;
+    width: auto;
+}
+
+.special_title {
+    background-color: rgba(180, 180, 180, 0.5);
+}
+
+.must_input {
+    color: #996F00;
+}
+
+.price {
+    text-align: right;
+    margin-left: 10px;
+}
