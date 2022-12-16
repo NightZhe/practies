@@ -1,5 +1,0 @@
-path: ../
-train: images
-val: images
-nc: 2  
-names: ['nomask', 'mask']
